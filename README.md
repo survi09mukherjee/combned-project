@@ -90,10 +90,15 @@ streamlit run app.py
 
 | Event Interest Prediction | Ticket Price Estimation | Recommendation Engine |
 |---------------------------|--------------------------|------------------------|
-| ![Interest](https://framerusercontent.com/images/ZQQw1LV65eijVmjJDW71JYkEM0.png) | ![Pricing](https://framerusercontent.com/images/tC6E8s1EzyircoKiIWRCNQO85o.png) | ![Recommend](https://framerusercontent.com/images/zfxRxnbqN4uBoK92Gr7JJ0ppzqo.png) |
+
 
 ---
+![13](https://github.com/user-attachments/assets/e437e265-ef82-43c7-b56c-5c81ac726559)
+![14](https://github.com/user-attachments/assets/e242d15f-891f-4ee0-818f-6c8a9d49a15a)
+!![12](https://github.com/user-attachments/assets/a5cdef32-6aa7-4ee9-84ea-9687e6c5fabb)
+![11](https://github.com/user-attachments/assets/615d033a-0144-41a0-96fc-ebb486d8781d)
 
+---
 ## 📊 Project Architecture
 
 ```
